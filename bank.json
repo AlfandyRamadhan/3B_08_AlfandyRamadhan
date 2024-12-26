@@ -1,2 +1,2 @@
-{"_id":{"$oid":"676cad1f50b37fb990fe6913"},"fname":"Jono","mname":"Rama","lname":"Jumhari","birthdate":"12-12-2002","bank-name":"BCA","no-rek":"535314761876","jumlah-penarikan":"Rp10.000.000","tanggal-penarikan":"30-12-2024"}
-{"_id":{"$oid":"676cad7450b37fb990fe6914"},"fname":"Dani","mname":"Lucas","lname":"Carvajal","birthdate":"08-10-2002","bank-name":"BCA","no-rek":"22876285448","jumlah-penarikan":"Rp20.000.000","tanggal-penarikan":"25-12-2024"}
+{"_id":{"$oid":"676cb0f70312da45d9fe6914"},"fname":"Dani","mname":"Lucas","lname":"Carvajal","birthdate":"08-10-2002","bank_name":"BCA","no_rek":"22876285448","jumlah_penarikan":"Rp20.000.000","tanggal_penarikan":"25-12-2024"}
+{"_id":{"$oid":"676cb0fe0312da45d9fe6915"},"fname":"Jono","mname":"Rama","lname":"Jumhari","birthdate":"12-12-2002","bank_name":"BCA","no_rek":"535314761876","jumlah_penarikan":"Rp10.000.000","tanggal_penarikan":"30-12-2024"}
